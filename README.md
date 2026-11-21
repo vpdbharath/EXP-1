@@ -105,7 +105,9 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 According to KVL, **Vs = VR1 + VR2 + VR3**.
 
 Substitute the observed values and verify that the algebraic sum of the voltage drops is approximately equal to the supply voltage.
-<img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/a7a94c69-6584-479b-b860-3e47130420f2" />
+
+<img width="1335" height="960" alt="image" src="https://github.com/user-attachments/assets/32771057-73e7-4c45-8d15-9cf790741c66" />
+
 <img width="1463" height="1047" alt="image" src="https://github.com/user-attachments/assets/7bdaa070-fe64-4875-9067-aa4f0ceb7d88" />
 
 
@@ -121,8 +123,9 @@ According to KCL, **It = I1 + I2 + I3**.
 Substitute the observed values and verify that the total current entering the node is approximately equal to the sum of the branch currents.
 
 <img width="1600" height="1128" alt="image" src="https://github.com/user-attachments/assets/44c5d437-5fc9-4d27-a78d-c889e79669bb" />
+<img width="1160" height="1600" alt="image" src="https://github.com/user-attachments/assets/9c8b0a54-8c5e-496c-9b6b-7ef7bbf0f645" />
 
-<img width="1160" height="1600" alt="image" src="https://github.com/user-attachments/assets/1c942531-8a57-4999-99c4-dd2c86e3e584" />
+
 
 
 
